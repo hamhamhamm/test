@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GRIM BLOOBS!
 
 You can use the [editor on GitHub](https://github.com/hamhamhamm/test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
